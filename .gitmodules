@@ -1,0 +1,3 @@
+[submodule "bad-aliens-dart"]
+	path = bad-aliens-dart
+	url = git://github.com/sethladd/bad-aliens-dart.git
